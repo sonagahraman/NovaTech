@@ -49,4 +49,18 @@ npm run dev
 ```
 
 ## Ekran görüntüləri
+### Home
 
+![Home](./home.png)
+
+### About
+
+![About](./about.png)
+
+### Gallery
+
+![Gallery](./gallery.png)
+
+### Contact
+
+![Contact](./contact.png)
